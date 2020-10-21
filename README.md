@@ -1,5 +1,7 @@
 #Grupo01 - Hackaton 
 
+3ºlugar no hackathon UNIP 2019
+
 # Install
 Rode `npm i` na pasta root
 
